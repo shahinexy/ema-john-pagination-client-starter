@@ -35,3 +35,6 @@
 .pagination button{
     border: 1px solid #FF9900;
 }
+.pagination .setelted{
+    background-color: #FF9900;
+}
